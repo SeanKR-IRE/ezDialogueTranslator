@@ -3,7 +3,7 @@
 EzDialogue Translator is a piece of software designed to aid in the process of making translations for the [EzDialogue](https://github.com/real-ezTheDev/GodotEzDialoguePlugin) Addon for Godot, created by [real-ezTheDev](https://github.com/real-ezTheDev)
 
 ## Video Demo
-[Demo](InsertDemoURL)
+[Demo](https://youtu.be/hpDK0ubgzfc)
 ## Run Locally
 
 1. Clone the project (MultiOS)
